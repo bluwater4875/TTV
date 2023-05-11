@@ -1,3 +1,4 @@
 
-if (a == "bluewater4875"){"This is a test";}
+if (a == 'BLUEWATER4875'){"This is a test";}
+if (a == 'Calmingvoiceonvalorant'){"This is a test";}
 else {"hello"}
