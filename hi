@@ -1,3 +1,2 @@
-if (a === 'bluewater4875'){"It works!";}
-if (a === 'Calmingvoiceonvalorant'){"This is a test";}
+if (a === "bluewater4875"){"It works!";}
 else {"hello"}
