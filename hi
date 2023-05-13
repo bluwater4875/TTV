@@ -1,2 +1,2 @@
-if (a === "Bluewater4875"){"It works? IT WORKS!!";} 
-else {"Hello Hello!"}
+if (a = "bluewater4875"){"It works? IT WORKS!!";} 
+else {"Hello Hello!!!!!"}
