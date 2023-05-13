@@ -1,7 +1,7 @@
 if (a == "bluewater4875"){"It works? IT WORKS!!";} 
-if (a === "Calmingvoiceonvalorant"){"Hello! Is that MY wonderful lovely streamer?!?";} 
-if (a === "Xrimsyn"){"Sup nerd? xrimsyPeek";} 
-if (a === "CyanxietyVO"){"Is that THEE Cyan?!";} 
-if (a === "SteggyLive"){"The real Omen VA? In my chat?";} 
-if (a === "Nyxiinema"){"The deamoness queen has arrived!!";} 
+if (a == "Calmingvoiceonvalorant"){"Hello! Is that MY wonderful lovely streamer?!?";} 
+if (a == "Xrimsyn"){"Sup nerd? xrimsyPeek";} 
+if (a == "CyanxietyVO"){"Is that THEE Cyan?!";} 
+if (a == "SteggyLive"){"The real Omen VA? In my chat?";} 
+if (a == "Nyxiinema"){"The deamoness queen has arrived!!";} 
 else {"Hello Hello"}
